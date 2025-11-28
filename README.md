@@ -32,7 +32,7 @@
 Внутренний канал -> n8n -> OpenAI -> n8n -> Google Sheets
 ```
 
-<img width="1647" height="525" alt="scheme n8n" src="https://github.com/user-attachments/assets/ab7b485e-6aec-4683-820b-a604907b5097" />
+<img width="1647" height="525" alt="scheme n8n" src="https://github.com/user-attachments/assets/70eb4b31-0c70-4c71-ac5d-329cdc54051f" />
 
 ---
 
